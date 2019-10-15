@@ -13,3 +13,24 @@ Also you can call it at runtime
 ```C#
 transform.Freeze()
 ```
+
+# Registry 
+npmjs regisry : **com.adlucem.transform-extension**
+
+Add these lines in *Packages/manifest.json* of your project.
+
+```
+"scopedRegistries": [
+  {
+    "name": "adlucem",
+    "url": "https://registry.npmjs.com",
+    "scopes": [
+      "com.adlucem"
+    ]
+  }
+],
+"dependencies": {
+  "com.adlucem.transform-extension": "1.0.0",
+  ...
+  }
+```

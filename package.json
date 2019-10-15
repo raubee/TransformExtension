@@ -20,5 +20,6 @@
   "bugs": {
     "url": "https://github.com/Arzijin/TransformExtension/issues"
   },
-  "homepage": "https://github.com/Arzijin/TransformExtension#readme"
+  "homepage": "https://github.com/Arzijin/TransformExtension#readme",
+  "dependencies": {}
 }
