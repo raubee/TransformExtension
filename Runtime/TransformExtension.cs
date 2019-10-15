@@ -1,6 +1,6 @@
 ﻿using UnityEngine;
 
-namespace TransformExtension
+namespace AdLucem.TransformExtension.Runtime
 {
 	public static class TransformExtension
 	{

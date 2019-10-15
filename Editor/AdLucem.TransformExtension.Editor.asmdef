@@ -1,0 +1,16 @@
+{
+    "name": "AdLucem.TransformExtension.Editor",
+    "references": [
+        "AdLucem.TransformExtension.Runtime"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}

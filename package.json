@@ -1,0 +1,24 @@
+{
+  "name": "com.adlucem.transform-extension",
+  "version": "1.0.0",
+  "description": "Transform extension for Unity - Freeze function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arzijin/TransformExtension.git"
+  },
+  "keywords": [
+    "Unity",
+    "Freeze",
+    "Transform"
+  ],
+  "author": "AdLucem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arzijin/TransformExtension/issues"
+  },
+  "homepage": "https://github.com/Arzijin/TransformExtension#readme"
+}

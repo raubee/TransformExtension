@@ -1,7 +1,9 @@
 ﻿using UnityEditor;
 using UnityEngine;
 
-namespace TransformExtension.Editor
+using AdLucem.TransformExtension.Runtime;
+
+namespace AdLucem.TransformExtension.Editor
 {
 	public static class TransformExtensionEditor
 	{
