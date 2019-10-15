@@ -1,6 +1,6 @@
 {
   "name": "com.adlucem.transform-extension",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Transform extension for Unity - Freeze function",
   "main": "index.js",
   "scripts": {
