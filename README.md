@@ -30,7 +30,7 @@ Add these lines in *Packages/manifest.json* of your project.
   }
 ],
 "dependencies": {
-  "com.adlucem.transform-extension": "1.0.0",
+  "com.adlucem.transform-extension": "X.X.X",
   ...
   }
 ```
